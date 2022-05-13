@@ -1,0 +1,30 @@
+body{
+	width:600px; 
+	margin: 0 auto; 
+	background-color: FF9500;
+	padding: 0 200px 20px 200px;
+	border: 3px solid black;
+}
+
+header{
+	
+	padding: 2px 0;
+	color: #5DADE2;
+	
+}
+
+footer{
+	color: gray;
+}
+
+table{
+	width: 600px; height: 1100px;
+}
+
+html{
+	background-color: #5DADE2;
+}
+
+hr{
+	border: 1px solid black;
+}
